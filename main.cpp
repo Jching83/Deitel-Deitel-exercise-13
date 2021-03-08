@@ -1,4 +1,5 @@
-/*
+/* Written by Jason Ching
+ * Exercise taken from Deitel, P., & Deitel, H. (2016). C++ How to Program (10th ed.). Pearson.
  * ****************************************************************
  * 2.19 (Arithmetic, Smallest and Largest) Write a program that   *
  * inputs three integers from the keyboard and prints the sum,    *
